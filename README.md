@@ -16,7 +16,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/iflis7/cub3d?color=green" />
 </p>
 
-## Our first RayCaster with miniLibX
+## Our first RayCaster with MLX42
 
 _Summary: This project is inspired by the world-famous Wolfenstein 3D game, which
 was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to
