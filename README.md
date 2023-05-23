@@ -271,7 +271,7 @@ at the ceiling
 ***********************************************
  <footer>
     <p align=center style="float:left; width: 20%;">
-        &copy; Lounes Adjou, 2023
+        &copy; Lounes Adjou, Hafid Saadi, 2023
     </p>
     <p align=center style="float:left; width: 20%;">
         For inquiries, please email me at: <a href="mailto:lounes.adjou@gmail.com">email</a>
