@@ -268,4 +268,16 @@ cub3D My first RayCaster with miniLibX
 Figure VI.5: Another example of a bonus game with a weapon of your choice and the player looking
 at the ceiling
 
+***********************************************
+ <footer>
+    <p align=center style="float:left; width: 20%;">
+        &copy; Lounes Adjou, 2023
+    </p>
+    <p align=center style="float:left; width: 20%;">
+        For inquiries, please email me at: <a href="mailto:lounes.adjou@gmail.com">email</a>
+    </p>
+</footer>
+
+ ***********************************************
+
 
